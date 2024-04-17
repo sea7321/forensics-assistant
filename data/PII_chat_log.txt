@@ -1,0 +1,11 @@
+[2023-10-15 09:05] Anonymous: Hello, I am from the Three River's electric company, and we are conducting a bi-annual security check for all of our account holders. Are you able to confirm your full name and address for us?
+[2023-10-15 09:07] Account Holder: Yes, my name is John Doe, and I live at 1234 Riverway Lane.
+[2023-10-15 09:10] Anonymous: Great. I see your account with us. Now, please confirm your date of birth with us.
+[2023-10-15 09:12] Account Holder: January 1st, 1990.
+[2023-10-15 09:13] Anonymous: Great. Lastly, confirm your social security with us.
+[2023-10-15 09:14] Account Holder: Why do you need my SSN?
+[2023-10-15 09:16] Anonymous: We need to verify that you are the same person that your account shows.
+[2023-10-15 09:18] Account Holder: 123-45-6789
+[2023-10-15 09:22] Account Holder: Hello?
+[2023-10-15 09:24] Account Holder: Hello??
+[2023-10-15 09:26] Account Holder: Great.
