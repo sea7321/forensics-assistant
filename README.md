@@ -9,6 +9,7 @@ efficiency and accuracy of analyzing evidence.
 ## Project Structure
 ```
 Malware Detection
+│   config.json
 │   README.md
 │   ...
 │
@@ -17,7 +18,6 @@ Malware Detection
 │   │   PII_chat_log.txt
 │
 └───src
-    │   config.json
     │   forensics_assistant.py
     │   report.txt*
     │   requirements.txt

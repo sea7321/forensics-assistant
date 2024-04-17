@@ -13,7 +13,7 @@ from termcolor import colored
 import google.generativeai as genai
 
 # Gemini API Key from the config file
-with open('config.json') as f:
+with open('../config.json') as f:
     config = json.load(f)
 API_KEY = config['api_key']
 
